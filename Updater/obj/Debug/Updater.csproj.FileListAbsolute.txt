@@ -1,0 +1,20 @@
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.UpdateAcceptForm.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.UpdateDownloadForm.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.UpdateInfo.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\bin\Debug\Updater.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\bin\Debug\Updater.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Updater\obj\Debug\Updater.pdb
+Z:\khackert\Desktop\Swift Student\Updater\bin\Debug\Updater.dll
+Z:\khackert\Desktop\Swift Student\Updater\bin\Debug\Updater.pdb
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.Properties.Resources.resources
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.UpdateAcceptForm.resources
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.UpdateDownloadForm.resources
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.UpdateInfo.resources
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.dll
+Z:\khackert\Desktop\Swift Student\Updater\obj\Debug\Updater.pdb

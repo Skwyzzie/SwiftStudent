@@ -1,0 +1,12 @@
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\Debug\Swift Parts.exe.config
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\Debug\Swift Parts.exe
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\Debug\Swift Parts.pdb
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift Parts.csprojResolveAssemblyReference.cache
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift_Parts.PartAdd.resources
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift_Parts.Main.resources
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift_Parts.PhotoViewer.resources
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift_Parts.Properties.Resources.resources
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift_Parts.Raw.resources
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift Parts.csproj.GenerateResource.Cache
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift Parts.exe
+c:\users\kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\Debug\Swift Parts.pdb

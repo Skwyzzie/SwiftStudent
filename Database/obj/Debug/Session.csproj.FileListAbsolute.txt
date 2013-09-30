@@ -1,0 +1,16 @@
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\bin\Debug\Database.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\bin\Debug\Database.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\bin\Debug\Part.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\bin\Debug\Part.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\obj\Debug\Session.csprojResolveAssemblyReference.cache
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\obj\Debug\Database.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Database\obj\Debug\Database.pdb
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Database\obj\Debug\Session.csprojResolveAssemblyReference.cache
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Database\obj\Debug\Database.dll
+Z:\khackert\Desktop\Swift Student\Database\bin\Debug\Database.dll
+Z:\khackert\Desktop\Swift Student\Database\bin\Debug\Database.pdb
+Z:\khackert\Desktop\Swift Student\Database\bin\Debug\Part.dll
+Z:\khackert\Desktop\Swift Student\Database\bin\Debug\Part.pdb
+Z:\khackert\Desktop\Swift Student\Database\obj\Debug\Session.csprojResolveAssemblyReference.cache
+Z:\khackert\Desktop\Swift Student\Database\obj\Debug\Database.dll
+Z:\khackert\Desktop\Swift Student\Database\obj\Debug\Database.pdb

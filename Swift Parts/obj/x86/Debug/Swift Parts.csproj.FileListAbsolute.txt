@@ -1,0 +1,54 @@
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Swift Parts.exe.config
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Swift Parts.exe
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Swift Parts.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift_Parts.PartAdd.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift_Parts.Main.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift_Parts.PhotoViewer.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift_Parts.Properties.Resources.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift_Parts.Raw.resources
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift Parts.csproj.GenerateResource.Cache
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift Parts.exe
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift Parts.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\obj\x86\Debug\Swift Parts.csprojResolveAssemblyReference.cache
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Database.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Part.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Database.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Part.pdb
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Updater.dll
+C:\Users\Kerry\documents\visual studio 2012\Projects\Swift Parts\Swift Parts\bin\x86\Debug\Updater.pdb
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Swift Student.exe.config
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift Parts.csprojResolveAssemblyReference.cache
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.PartAdd.resources
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.Main.resources
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.PhotoViewer.resources
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.Properties.Resources.resources
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.Raw.resources
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift Parts.csproj.GenerateResource.Cache
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Swift Student.exe
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Swift Student.pdb
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Database.dll
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Part.dll
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Updater.dll
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Database.pdb
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Part.pdb
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\bin\x86\Debug\Updater.pdb
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift Student.exe
+C:\Users\Kerry\Documents\Visual Studio 2012\Projects\Swift Student\Swift Parts\obj\x86\Debug\Swift Student.pdb
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Swift Student.exe.config
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift Student.exe
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift Parts.csprojResolveAssemblyReference.cache
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.PartAdd.resources
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.Main.resources
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.PhotoViewer.resources
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.Properties.Resources.resources
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift_Student.Raw.resources
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift Parts.csproj.GenerateResource.Cache
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Swift Student.exe
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Swift Student.pdb
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Database.dll
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Part.dll
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Updater.dll
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Database.pdb
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Part.pdb
+Z:\khackert\Desktop\Swift Student\Swift Parts\bin\x86\Debug\Updater.pdb
+Z:\khackert\Desktop\Swift Student\Swift Parts\obj\x86\Debug\Swift Student.pdb
